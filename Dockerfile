@@ -1,4 +1,4 @@
-FROM flyway/flyway:latest
+FROM flyway/flyway:10
 
 # Set working directory
 WORKDIR /flyway
